@@ -1,7 +1,5 @@
 # Hadithi za Data za Biashara
 
-Mradi huu ni sehemu ya [code4future](https://github.com/rytina/code4future).
-
 Lengo: Kutumia data wazi za biashara (Ujerumani <-> Afrika Mashariki) kuunda **hadithi ya data (data story)** inayoeleweka.
 
 ---
