@@ -6,7 +6,7 @@ Lengo: Kutumia data wazi za biashara (Ujerumani <-> Afrika Mashariki) kuunda **h
 
 ## Makengo ya Kujifunza
 - **Umahiri wa Data:** Kusafisha, kuona (visualize), na kutafsiri data
-- **Informatiki:** Python & Jupyter Notebooks
+- **Sayansi ya kompyuta:** Python & Jupyter Notebooks
 - **Kazi ya Timu:** Issues, Pull Requests, Code Reviews
 - **Ushirikiano wa Kitamaduni:** Kuwasilisha matokeo kwa uwazi na ufupi
 
