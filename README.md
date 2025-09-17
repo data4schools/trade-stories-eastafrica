@@ -30,14 +30,14 @@ Lengo: Kutumia data wazi za biashara (Ujerumani <-> Afrika Mashariki) kuunda **h
 - Funga notebooks/uchambuzi_biashara.ipynb
 - Safisha data (NaN, vitengo visivyo sanifu)
 
-3. Uoneshaji (Visualization)
+3. **Uoneshaji (Visualization)**
 - Tengeneza michoro: mistari, vibao (bar), n.k.
 
-4. Usimulizi (Storytelling)
+4. **Usimulizi (Storytelling)**
 - Ni mitindo gani inaonekana?
 - Andaa hadithi ya kurasa 2 (poster au slaidi)
 
-5. Pull Request
+5. **Pull Request**
 - Tuma mabadiliko kwenye repo kuu (PR -> Review -> Merge)
 
 ---
