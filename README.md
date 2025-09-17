@@ -35,7 +35,7 @@ Lengo: Kutumia data wazi za biashara (Ujerumani <-> Afrika Mashariki) kuunda **h
 
 4. **Usimulizi (Storytelling)**
 - Ni mitindo gani inaonekana?
-- Andaa hadithi ya kurasa 2 (poster au slaidi)
+- Andaa hadithi ya kurasa mbili (poster au slaidi)
 
 5. **Pull Request**
 - Tuma mabadiliko kwenye repo kuu (PR -> Review -> Merge)
